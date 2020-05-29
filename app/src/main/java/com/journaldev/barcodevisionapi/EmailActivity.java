@@ -14,7 +14,7 @@ public class EmailActivity extends AppCompatActivity implements View.OnClickList
     TextView txtEmailAddress;
     Button btnSendEmail;
 
-
+//hihi
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
