@@ -15,12 +15,13 @@ public class EmailActivity extends AppCompatActivity implements View.OnClickList
     Button btnSendEmail;
 
 //hihi
-
+//test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_email);
         initViews();
+
     }
 
     private void initViews() {
