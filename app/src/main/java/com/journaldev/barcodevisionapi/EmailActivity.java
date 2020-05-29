@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
-
+//test
 public class EmailActivity extends AppCompatActivity implements View.OnClickListener {
 
     EditText inSubject, inBody;
