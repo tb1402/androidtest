@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file:///mnt/Nextcloud/Programmieren/androidtest/androidtest.iml" filepath="/mnt/Nextcloud/Programmieren/androidtest/androidtest.iml" />
-      <module fileurl="file:///mnt/Nextcloud/Programmieren/androidtest/app/androidtest-app.iml" filepath="/mnt/Nextcloud/Programmieren/androidtest/app/androidtest-app.iml" />
-      <module fileurl="file:///mnt/Nextcloud/Programmieren/androidtest/app/app.iml" filepath="/mnt/Nextcloud/Programmieren/androidtest/app/app.iml" />
+      <module fileurl="file:///mnt/Nextcloud/Programmieren/AndroidStudioProjects/androidtest2/androidtest2.iml" filepath="/mnt/Nextcloud/Programmieren/AndroidStudioProjects/androidtest2/androidtest2.iml" />
+      <module fileurl="file:///mnt/Nextcloud/Programmieren/AndroidStudioProjects/androidtest2/app/app.iml" filepath="/mnt/Nextcloud/Programmieren/AndroidStudioProjects/androidtest2/app/app.iml" />
     </modules>
   </component>
 </project>
