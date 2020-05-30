@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/706575456/AndroidStudioProjects-androidtest.iml" filepath="$PROJECT_DIR$/.idea/modules/706575456/AndroidStudioProjects-androidtest.iml" group="androidtest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1403051022/AndroidStudioProjects-androidtest-app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1403051022/AndroidStudioProjects-androidtest-app.iml" group="androidtest/app" />
       <module fileurl="file:///mnt/Nextcloud/Programmieren/androidtest/androidtest.iml" filepath="/mnt/Nextcloud/Programmieren/androidtest/androidtest.iml" />
       <module fileurl="file:///mnt/Nextcloud/Programmieren/androidtest/app/androidtest-app.iml" filepath="/mnt/Nextcloud/Programmieren/androidtest/app/androidtest-app.iml" />
       <module fileurl="file:///mnt/Nextcloud/Programmieren/androidtest/app/app.iml" filepath="/mnt/Nextcloud/Programmieren/androidtest/app/app.iml" />

@@ -32,7 +32,7 @@ public class EmailActivity extends AppCompatActivity implements View.OnClickList
 
 
         if (getIntent().getStringExtra("email_address") != null) {
-            txtEmailAddress.setText("Recipient : " + getIntent().getStringExtra("email_address"));
+            txtEmailAddress.setText("For : " + getIntent().getStringExtra("email_address"));
         }
 
         btnSendEmail.setOnClickListener(new View.OnClickListener() {
