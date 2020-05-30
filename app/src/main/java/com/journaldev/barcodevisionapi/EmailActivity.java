@@ -51,7 +51,6 @@ public class EmailActivity extends AppCompatActivity implements View.OnClickList
 
     @Override
     public void onClick(View v) {
-
         switch (v.getId()) {
             case R.id.btnTakePicture:
                 startActivity(new Intent(EmailActivity.this, PictureBarcodeActivity.class));
