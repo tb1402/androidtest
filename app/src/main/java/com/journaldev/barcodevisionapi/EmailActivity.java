@@ -14,13 +14,14 @@ public class EmailActivity extends AppCompatActivity implements View.OnClickList
     TextView txtEmailAddress;
     Button btnSendEmail;
 
-//fsdhlfsuf
-
+//hihi
+//test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_email);
         initViews();
+
     }
 
     private void initViews() {
